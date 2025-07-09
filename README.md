@@ -1,2 +1,1 @@
-# MLTestnetBridgeFrameworkNext
-Advanced MLTestnetBridgeFrameworkNext project
+.
