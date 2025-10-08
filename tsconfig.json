@@ -1,11 +1,25 @@
 {
+    // TypeScript configuration file
     "compilerOptions": {
+        // Target JavaScript version for compilation
         "target": "ES2020",
+        
+        // Module system to use for compilation
         "module": "commonjs",
+        
+        // Output directory for compiled files
         "outDir": "./dist",
+        
+        // Root directory for source files
         "rootDir": "./src",
+        
+        // Enable strict type checking
         "strict": true,
+        
+        // Enable interoperability with CommonJS modules
         "esModuleInterop": true,
+        
+        // Skip checking of library files
         "skipLibCheck": true
     }
 }
